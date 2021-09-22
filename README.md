@@ -1,5 +1,9 @@
 # Object Detection using HaarCascade Classifier
 Object Detection using Haar feature-based cascade classifiers is an effective object detection method proposed by Paul Viola and Michael Jones in their paper, "Rapid Object Detection using a Boosted Cascade of Simple Features" in 2001. It is a machine learning based approach where a cascade function is trained from a lot of positive and negative images. It is then used to detect objects in other images.
+
+Here I have detected the face as well as eyes in an image as well as in a video using VideoCapture function present in OpenCV library.
+I have also worked on vehicle detection of an image as well as Counting number of bikes in a video.
+
 ![pic1](https://user-images.githubusercontent.com/49615689/129191134-04db7d28-be7f-4666-bcb0-aed0ace3014a.PNG)
 
 # Haar Like Features
